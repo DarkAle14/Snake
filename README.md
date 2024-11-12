@@ -13,7 +13,3 @@ The program is divided into:
 ## 🎖️ Badges
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-![Version](https://img.shields.io/github/v/release/DarkAle14/snake-game?label=Version%201.0&style=flat-square)
-
-
