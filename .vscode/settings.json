@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "${workspaceFolder}/../../compiler/MinGW32/bin/gcc",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
