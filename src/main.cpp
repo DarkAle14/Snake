@@ -230,7 +230,7 @@ int main() {
             choice = getch();  // Legge il tasto premuto
             if (choice == 'r') {
                 restartGame = 1;  // Riavvia il gioco
-                break;
+                break; // Uscita dal programma
             } else if (choice == 'x') {
                 closegraph();  // Chiude la finestra grafica
                 return 0;      // Esce dal programma
