@@ -1,3 +1,4 @@
+// Inclusione delle librerie
 #include <graphics.h>  // Libreria grafica per il rendering del gioco
 #include <stdio.h>     // Libreria standard per input/output
 #include <stdlib.h>    // Libreria standard per funzioni di utilità
